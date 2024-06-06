@@ -49,11 +49,11 @@ const Footer = () => (
 				© 2020 All rights reserved. <br /> Built by 
 				<span className='author'>
 					<a
-						href='https://nutifafa.netlify.app'
+						href='https://https://github.com/bhatinikhil8055'
 						target='_blank'
 						rel='noopener noreferrer'
 					>
-						Nutifafa
+						Nikhil Bhati
 					</a>
 				</span>
 			</p>
